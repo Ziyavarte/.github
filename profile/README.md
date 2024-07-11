@@ -19,6 +19,12 @@ We believe in a decentralized future where technology empowers individuals and c
 - Promote transparency and trust in decentralized systems.
 - Support the development of open-source blockchain projects.
 
+## Our Projects:
+
+- **0g** | [Guide](https://github.com/Ziyavarte/guides/blob/main/0g/installation.md)
+- **Nibiru** | [Guide](https://github.com/Ziyavarte/guides/blob/main/nibiru/installation.md)
+- **Artela** | [Guide](https://github.com/Ziyavarte/guides/blob/main/artela/installation.md)
+
 ## Get Involved
 
 We are always looking to collaborate with like-minded individuals and organizations. Feel free to reach out to us or contribute to our projects!
