@@ -24,6 +24,7 @@ We believe in a decentralized future where technology empowers individuals and c
 - **0g** | [Guide](https://github.com/Ziyavarte/guides/blob/main/0g/installation.md)
 - **Nibiru** | [Guide](https://github.com/Ziyavarte/guides/blob/main/nibiru/installation.md)
 - **Artela** | [Guide](https://github.com/Ziyavarte/guides/blob/main/artela/installation.md)
+- **Nillion** | [Guide](https://github.com/Ziyavarte/guides/blob/main/nillion/installation.md)
 
 ## Get Involved
 
