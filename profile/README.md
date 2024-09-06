@@ -22,6 +22,7 @@ We believe in a decentralized future where technology empowers individuals and c
 ## Our Projects:
 
 - **0g** | [Guide](https://github.com/Ziyavarte/guides/blob/main/0g/installation.md)
+- **Solv** | [Note](https://medium.com/@Ziyavarte/how-solv-finance-leverages-solv-guard-custodians-and-comprehensive-audits-e673835186f6)
 - **Nibiru** | [Guide](https://github.com/Ziyavarte/guides/blob/main/nibiru/installation.md)
 - **Artela** | [Guide](https://github.com/Ziyavarte/guides/blob/main/artela/installation.md)
 - **Nillion** | [Guide](https://github.com/Ziyavarte/guides/blob/main/nillion/installation.md)
